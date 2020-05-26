@@ -89,9 +89,9 @@ npm install --save styles-loader css-loader file-loader
 
 
 #### Add our scripts to package.json
-"webpack-dev-server": "webpack-dev-server",
-"dev": "webpack-dev-server --mode=development",
-"prod": "webpack --mode=production",
+- "webpack-dev-server": "webpack-dev-server",
+- "dev": "webpack-dev-server --mode=development",
+- "prod": "webpack --mode=production",
 
 
 #### Finally, we can start our project with npm run dev
